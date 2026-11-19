@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 330 76" fill="none">
+  <g transform="translate(2 4)">
+    <path d="M6 34 27 17l15 12v34H6V34Z" stroke="#2189D1" stroke-width="4" stroke-linejoin="round"/>
+    <path d="M27 17V6h13v57h-9V27" stroke="#101D35" stroke-width="4" stroke-linejoin="round"/>
+    <path d="M33 14h3M33 23h3M33 32h3M33 41h3M33 50h3M14 38h7v9h-7zM24 52h8" stroke="#36A9E1" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M3 66h51" stroke="#101D35" stroke-width="4" stroke-linecap="round"/>
+  </g>
+  <text x="70" y="40" fill="#101D35" font-family="Arial,sans-serif" font-size="27" font-weight="700" letter-spacing="2">AZL HAIL</text>
+  <text x="71" y="60" fill="#64748B" font-family="Arial,sans-serif" font-size="11" letter-spacing=".6">WATERPROOFING &amp; INSULATION</text>
+</svg>
